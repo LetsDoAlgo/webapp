@@ -4,7 +4,7 @@
 $servername = '172.17.0.2';
 $username = 'root';
 $password = 'password';
-$database = 'prod_Schema';
+$database = 'prod_schema';
 $table = 'products';
 
 // Create connection
